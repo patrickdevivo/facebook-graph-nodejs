@@ -1,0 +1,20 @@
+{
+  "name": "facebook-graph-nodejs",
+  "version": "0.0.1",
+  "description": "Node.js package for interacting with the Facebook Graph API",
+  "main": "index.js",
+  "repository": "https://github.com/patrickdevivo/facebook-graph-nodejs.git",
+  "author": "Patrick DeVivo <patrick.devivo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0",
+    "jest": "^20.0.4"
+  }
+}
